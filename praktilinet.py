@@ -1,0 +1,4 @@
+küsimus=[] 
+vastu=[] 
+oiged=[] 
+
